@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1027
+
+This is a very simple script. It may be very bugous.
+Just type \es and it puts ">>" signs at all error lines.
